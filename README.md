@@ -1,3 +1,6 @@
+# DESPLIEGUE
+Este proyecto esta desplegado a produccion en un servidor de prueba [Aqui en Netlify](https://eager-wescoff-136624.netlify.app/) 
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
